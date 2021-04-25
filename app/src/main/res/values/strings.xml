@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SplashScreenApp</string>
+    <string name="welcome_message">Welcome to the Home Screen</string>
 </resources>
